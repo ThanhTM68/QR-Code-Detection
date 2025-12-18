@@ -1,0 +1,12 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+env/
+.env
+
+# Bỏ qua file cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua file ảnh tạm hoặc dữ liệu nhạy cảm
+*.tmp
+.DS_Store
